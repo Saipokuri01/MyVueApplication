@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
 .green {
-  background-color: rgb(163, 227, 237);
+  background-color: rgb(187, 246, 242);
 }
 
 .red {
