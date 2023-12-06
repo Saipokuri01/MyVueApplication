@@ -26,7 +26,7 @@ export default {
 }
 
 .red {
-  background-color: rgb(245, 200, 200);
+  background-color: rgb(209, 170, 170);
 }
 
 .stock-container {

@@ -8,7 +8,7 @@
     <StockBox :stocks="stocks" />
   </div>
 </template>
-
+<!-- comments -->
 <script>
  import StockHeader from '@/components/MyHeader.vue';
 import StockBox from '@/components/StockBox.vue';
